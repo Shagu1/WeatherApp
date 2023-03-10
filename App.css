@@ -1,0 +1,14 @@
+body{
+  background: url(Weatherr.jpg), no-repeat center center;
+  background-size: cover;
+}
+.App {
+  text-align: center;
+  margin-top: 400px;
+  color: aliceblue;
+  margin-top: 244px;
+}
+#input1{
+  color: rgb(10, 10, 10);
+} 
+
